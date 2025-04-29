@@ -24,29 +24,29 @@ The strategy document covers three critical pillars of SEO:
   
 2.	Backlink Building: Backlinks are crucial for increasing domain authority. This plan includes tactics like:
    
-o	Guest blogging on food-related websites.
+•	Guest blogging on food-related websites.
 
-o	Collaborations with local influencers and bloggers.
+•	Collaborations with local influencers and bloggers.
 
-o	Listing the site on directories and food platforms.
+•	Listing the site on directories and food platforms.
 
-o	Creating shareable content such as infographics or cake guides.
+•	Creating shareable content such as infographics or cake guides.
 
-o	Asking satisfied customers or partners to link back to the website.
+•	Asking satisfied customers or partners to link back to the website.
 
 3.	Technical SEO: This section ensures the website is technically sound for both users and search engines. It includes:
    
-o	Fast loading times (image compression, caching).
+•	Fast loading times (image compression, caching).
 
-o	Mobile optimization.
+•	Mobile optimization.
 
-o	Secure HTTPS protocol.
+•	Secure HTTPS protocol.
 
-o	XML sitemap and robots.txt setup.
+•	XML sitemap and robots.txt setup.
 
-o	Clean and crawlable site architecture.
+•	Clean and crawlable site architecture.
 
-o	Fixing broken links and redirects.
+•	Fixing broken links and redirects.
 
 The deliverables include:
 
