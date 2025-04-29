@@ -56,5 +56,6 @@ The deliverables include:
 
 This task demonstrates a solid understanding of SEO fundamentals and provides a practical roadmap Creamy Hub can follow to climb up the search engine rankings and attract more customers organically.
 
-## OUTPUT
+## CHECKLIST
 
+![Image](https://github.com/user-attachments/assets/5555052d-5fd1-40f3-9a36-0fa3c2ab3d34)
